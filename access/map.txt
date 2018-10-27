@@ -1,0 +1,18 @@
+load.php
+
+access
+  header.php 
+    index.php = redirects to login.php
+    register.php
+    login.php
+    logout.php
+  footer.php
+
+includes
+    connection.php
+    functions.php
+    constants.php
+
+
+
+ 
